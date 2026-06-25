@@ -1,9 +1,9 @@
 {
   "title": "Oscillaris",
-  "subtitle": "Hydroszilla / Oscillaria",
-  "tagline": "Sensorisch-Resonante Stehleuchte",
-  "description": "Ein flüssiger Transduktor — Wasser wandelt mechanische und akustische Energie in sichtbare Oberflächenmodulationen um. RGBWW-LEDs reflektieren die Muster an die Raumdecke. Die Leuchte reagiert auf Nähe, Bewegung und Klang.",
+  "subtitle": "",
+  "tagline": "Light Installation",
+  "description": "Oscillaris is a light installation in which space is no longer illuminated, but continuously generated in real time through vibration. Light, sound, and matter enter an unstable equilibrium that constantly reorganizes itself, shaped by proximity, movement, and acoustic energy within the room.\n\nThe work operates at the threshold between physical reaction and spatial perception. The installation does not respond to space, it is produced by it.\n\nThe contrast between the clay vessel and the metal elements establishes a relationship between natural materiality and technical precision. At the center of the installation lies a shallow water basin as a sensitive resonant medium. The water functions as a fluid transducer. Through vibrations and light impulses, it absorbs the subtle presence of the surrounding space and translates it into visible, flowing fields of light. As soon as the water begins to oscillate, delicate waves, unstable patterns, and dynamic reflections emerge — no longer merely depicting the space, but actively reconfiguring it.",
   "year": "2025",
   "location": "Wien",
-  "materials": "Zement · Keramik · Eisen · Glas · Arduino · RGBWW · PAM8610"
+  "materials": "Cement · Ceramics · Iron · Glass · Arduino · RGBWW · PAM8610"
 }

@@ -1,0 +1,7 @@
+node_modules/
+public/images/*.jpg
+public/images/*.jpeg
+public/images/*.png
+public/images/*.gif
+public/images/*.webp
+.env

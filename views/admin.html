@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Admin — Oscillaris</title>
+<link rel="stylesheet" href="/css/admin.css">
+</head>
+<body>
+<div class="admin-wrap">
+  <h1>Oscillaris <span>Admin</span></h1>
+
+  <section>
+    <h2>Texte</h2>
+    <label>Titel<input id="f-title" type="text"></label>
+    <label>Untertitel<input id="f-subtitle" type="text"></label>
+    <label>Tagline<input id="f-tagline" type="text"></label>
+    <label>Beschreibung<textarea id="f-description" rows="4"></textarea></label>
+    <label>Jahr<input id="f-year" type="text"></label>
+    <label>Ort<input id="f-location" type="text"></label>
+    <label>Materialien<input id="f-materials" type="text"></label>
+    <button id="save-text">Speichern</button>
+    <span class="msg" id="text-msg"></span>
+  </section>
+
+  <section>
+    <h2>Bilder</h2>
+    <div class="drop-zone" id="drop-zone">
+      <p>Bilder hier reinziehen oder klicken</p>
+      <input type="file" id="file-input" multiple accept="image/*" style="display:none">
+    </div>
+    <div class="upload-progress" id="upload-progress"></div>
+    <div class="image-grid" id="image-grid"></div>
+  </section>
+
+  <div class="back"><a href="/">← Zur Website</a></div>
+</div>
+
+<script src="/js/admin.js"></script>
+</body>
+</html>
